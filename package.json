@@ -7,8 +7,7 @@
   "license": "Proprietary",
   "private": true,
   "scripts": {
-    "start": "node index.js",
-
+    "start": "node index.js"
   },
   "dependencies": {
     "bcrypt-nodejs": "0.0.3",
